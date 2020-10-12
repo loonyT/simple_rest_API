@@ -33,7 +33,7 @@ What Does REST exactely means ?
 What does an API rest request contains ? 
 
 1. An endpoint URL
-2. The HTTP method (get, post, put, delete) 
+2. The HTTP method (get, post, put, delete) IE : CRUD operations : create, read, update and delete. 
 3. The HTTP headers (authentications tokens, cookies, ...) 
 4. Datas ( often in json) 
 
